@@ -30,8 +30,8 @@ CoinbaseOrderDestination=Coinbase
 ## OkCoin
 OkCoinWsUrl=wss://real.okcoin.com:10440/websocket/okcoinapi
 OkCoinHttpUrl=https://www.okcoin.com/api/v1/
-OkCoinApiKey=NULL
-OkCoinSecretKey=NULL
+OkCoinApiKey= b517a794-8c33-4dcc-85d6-95caf27f41ab
+OkCoinSecretKey= AC70C70B62249DB539940FF98F5E2B97
 OkCoinOrderDestination=OkCoin
 ## Bitfinex
 BitfinexHttpUrl=https://api.bitfinex.com/v1
